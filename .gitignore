@@ -1,8 +1,14 @@
-/landsat
 /landsat_data
 /venv 
 /.vscode
+*.tif
 lulc.tif
+*.TIF
+*.TIFF
 __pycache__
 /processed_data
-visualize.py
+/.venv
+conda-env/
+env/
+.ipynb_checkpoints/
+.env
