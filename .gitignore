@@ -1,4 +1,8 @@
-./ddpm_unet.pth
-./gan_generator.pth
+/landsat
+/landsat_data
 /venv 
-/KMAR-50K
+/.vscode
+lulc.tif
+__pycache__
+/processed_data
+visualize.py
